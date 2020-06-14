@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[Level initWithSize:levelNumber:]:Level.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Level didBeginContact:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "player.position">
+            </PersistentString>
+            <PersistentString
+               value = "teleports[node]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level update:]:Level.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Level boundLayerPos:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "masterNode.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level createASCIIMapLevel:numCharsHigh:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lines">
+            </PersistentString>
+            <PersistentString
+               value = "currentLine">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level panForTranslation:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "masterNode.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
